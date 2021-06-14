@@ -1,4 +1,4 @@
-#Data Structure Notes 
+# Data Structure Notes 
 
 ADT--> Abstract Data Types 
 
@@ -6,28 +6,28 @@ ADT--> Abstract Data Types
 - array and linked list is concrete data structure 
 
 
-##Array List (dynamic array)
-##Node List 
+## Array List (dynamic array)
+## Node List 
 	- Single Linked list
 	- Double Linked list 
-##Sequence 
+## Sequence 
 
-##Stack 
+## Stack 
  1. array 
  2. extendable array
  3. single linked list 
-##Queue 
+## Queue 
  1. array 
  2. circular array 
  3.single linked list
-##Heap
+## Heap
  - array
  - prorityQueue
  
 
 
 
-##Binary Search Tree
+## Binary Search Tree
  - InOrder
  - PreOrder
  - PostOrder 
