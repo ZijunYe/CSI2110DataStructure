@@ -1,7 +1,7 @@
 ## Data Structure 
 
 ## Course Mindmap
-! [image](DataStructureOverview.png){:height="50%" width="50%"}
+! [image][DataStructureOverview.png]{:height="50%" width="50%"}
 
 ## Detail Notes 
 
